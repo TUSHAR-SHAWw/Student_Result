@@ -3,7 +3,6 @@ asgiref==3.7.2
 mysql-connector-python==8.2.0
 Pillow==10.1.0
 protobuf==4.21.12
-psycopg2==2.9.9
 python-dateutil==2.8.2
 pytz==2023.3.post1
 six==1.16.0
