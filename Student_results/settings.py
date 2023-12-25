@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'Student_results.wsgi.application'
 
 DATABASES = {
 	'default': {
-		'ENGINE': 'mysql.connector.django',
+		'ENGINE': 'mysql.connector.postgresql',
 		'NAME': 'Student_app',
 		'USER': 'root',
 		'PASSWORD': '0000',
