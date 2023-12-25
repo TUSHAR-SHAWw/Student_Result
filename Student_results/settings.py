@@ -80,10 +80,10 @@ DATABASES = {
 	'default': {
 		'ENGINE': 'mysql.connector.postgresql',
 		'NAME': 'Student_app',
-		'USER': 'root',
-		'PASSWORD': '0000',
-		'HOST':'localhost',
-		'PORT':'3306',
+		'USER': 'postgres',
+		'PASSWORD': 'E4652b4a6D*e41EB5GA-2*FEFcD4bb3D',
+		'HOST':'roundhouse.proxy.rlwy.net',
+		'PORT':'47761',
 	}
 }
 
