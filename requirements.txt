@@ -1,6 +1,5 @@
 Django==3.2.23
 asgiref==3.7.2
-django-faker==0.2
 fake-factory==9999.9.9
 Faker==20.1.0
 mysql-connector-python==8.2.0
